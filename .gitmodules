@@ -1,12 +1,13 @@
 [submodule "depends/gtest"]
 	path = depends/gtest
-	url = https://github.com/google/googletest.git
+	url = https://github.com/degatedev/googletest.git
 [submodule "depends/ate-pairing"]
 	path = depends/ate-pairing
-	url = https://github.com/herumi/ate-pairing.git
+	url = https://github.com/degatedev/ate-pairing.git
 [submodule "depends/xbyak"]
 	path = depends/xbyak
-	url = https://github.com/herumi/xbyak.git
+	url = https://github.com/degatedev/xbyak.git
 [submodule "depends/libff"]
 	path = depends/libff
-	url = https://github.com/scipr-lab/libff.git
+	url = https://github.com/degatedev/libff.git
+        branch = develop_degate
